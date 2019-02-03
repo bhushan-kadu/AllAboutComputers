@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer1"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer2"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer3"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer4"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer5"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer6"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp">
+
+        <Button
+            android:tag="whatIsComputer7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/whatIsComputer7"
+            android:background="@null"
+            android:onClick="click"
+            />
+    </android.support.v7.widget.CardView>
+
+
+
+</LinearLayout>

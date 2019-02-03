@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Computer Fundamentals</string>
+    <string name="button1_text">संगणक म्हणजे काय?</string>
+    <string name="button2_text">संगणक समस्या आणि उपाय</string>
+    <string name="button3_text">संगणक Format कसा करावा </string>
+    <string name="button4_text">संगणक चालू आणि बंद करणे </string>
+
+    <string name="whatIsComputer1">संगणक म्हणजे काय ?</string>
+    <string name="whatIsComputer2">संगणकाचे फायदे आणि उपयोग</string>
+    <string name="whatIsComputer3">संगणकाचे भाग</string>
+    <string name="whatIsComputer4">संगणकाचे नेटवर्क</string>
+    <string name="whatIsComputer5">प्रकार आणि काम करण्याची पद्धत</string>
+    <string name="whatIsComputer6">संगणकाचा इतिहास </string>
+    <string name="whatIsComputer7">काही अधिक माहिती</string>
+
+
+    <string name="FormatComputer1">संगणक format का करावा </string>
+    <string name="FormatComputer2">Important tools for format a Computer</string>
+    <string name="FormatComputer3">ंगणक Format कसा करावा </string>
+    <string name="FormatComputer4">अजून apps download करा </string>
+</resources>

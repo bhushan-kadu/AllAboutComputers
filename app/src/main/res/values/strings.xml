@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Computer Fundamentals</string>
+    <string name="button1_text">What is a Computer?</string>
+    <string name="button2_text">Computer Problems and Solution</string>
+    <string name="button3_text">How to format a Computer</string>
+    <string name="button4_text">Start and turn off Computer</string>
+
+    <string name="whatIsComputer1">What is Computer ?</string>
+    <string name="whatIsComputer2">Use of Computer</string>
+    <string name="whatIsComputer3">Parts Of Computer</string>
+    <string name="whatIsComputer4">What is Computer Network </string>
+    <string name="whatIsComputer5">Types Of Computer</string>
+    <string name="whatIsComputer6">History of computer </string>
+    <string name="whatIsComputer7">Some More Information </string>
+
+
+    <string name="FormatComputer1">Why Format Computer ?</string>
+    <string name="FormatComputer2">Important tools for format a Computer</string>
+    <string name="FormatComputer3">How to Format a Computer </string>
+    <string name="FormatComputer4">Download More Apps..!!</string>
+</resources>
